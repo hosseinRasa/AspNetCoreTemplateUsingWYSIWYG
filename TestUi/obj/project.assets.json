@@ -3912,11 +3912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TestUi\\TestUi\\TestUi.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\AspNetCoreTemplateUsingWYSIWYG\\TestUi\\TestUi.csproj",
       "projectName": "TestUi",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\TestUi\\TestUi\\TestUi.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\AspNetCoreTemplateUsingWYSIWYG\\TestUi\\TestUi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\TestUi\\TestUi\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\AspNetCoreTemplateUsingWYSIWYG\\TestUi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

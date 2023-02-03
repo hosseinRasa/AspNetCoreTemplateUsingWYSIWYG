@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVATe8IpU6WOjSvG2dn2c5xfnd1dz/rfyuMR0s7r8BxsEYNkte7DSuFnqJyMDMBiE3IaE1qAinrA0b8nN90Kng==",
+  "dgSpecHash": "PeAEAUCLDEdcM7wmxTqNrIzb+W3fHdzRnykP97KQXsBBQb3u/iZEvotCM1tmeSd6BL9be0WQjOt6MJAc27NZJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\TestUi\\TestUi\\TestUi.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\AspNetCoreTemplateUsingWYSIWYG\\TestUi\\TestUi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
